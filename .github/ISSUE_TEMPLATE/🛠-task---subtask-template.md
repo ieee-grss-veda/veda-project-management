@@ -1,0 +1,25 @@
+---
+name: "\U0001F6E0 Task / Subtask template"
+about: Track an individual piece of work contributing to a feature or bug fix
+title: "[Task] <short description>"
+labels: task
+assignees: ''
+
+---
+
+## Description
+Briefly describe what needs to be done.
+
+## Checklist
+- [ ] Step 1
+- [ ] Step 2
+- [ ] Step 3
+
+## Linked Issues
+- Parent Feature: #<id>
+- Epic/Milestone: #<id>
+
+## Definition of Done
+- [ ] Code implemented
+- [ ] Tests written and passing
+- [ ] Documentation updated
